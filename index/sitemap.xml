@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://boomclick.ru/index.html</loc>
+    <lastmod>2018-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://boomclick.ru/%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8E.html</loc>
+    <lastmod>2018-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://boomclick.ru/%D0%B2%D0%B5%D0%B1%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%83.html</loc>
+    <lastmod>2018-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://boomclick.ru/%D0%B0%D0%B3%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D1%83.html</loc>
+    <lastmod>2018-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://boomclick.ru/%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%8B-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B.html</loc>
+    <lastmod>2018-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://boomclick.ru/%D0%BE-%D0%BD%D0%B0%D1%81.html</loc>
+    <lastmod>2018-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://boomclick.ru/f.a.q.html</loc>
+    <lastmod>2018-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

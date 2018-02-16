@@ -1,0 +1,517 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="boomclick.ru" resolutions="1x" timestamp="1518789368549">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_________1.css" crc="3937902137" ref="агенству"/>
+    <file name="master_________.css" crc="445935380" ref="index"/>
+    <file name="master__-___.css" crc="4215727071" ref="о-нас"/>
+    <file name="master_f_a_q.css" crc="3803144878" ref="f.a.q"/>
+    <file name="master___________.css" crc="10103573" ref="вебмастеру"/>
+    <file name="master______________.css" crc="124525020" ref="рекламодателю"/>
+    <file name="master________-_______.css" crc="20072733" ref="форматы-рекламы"/>
+    <file name="_______-_______.css" crc="4252897260" ref="форматы-рекламы"/>
+    <file name="_____________.css" crc="533572376" ref="рекламодателю"/>
+    <file name="__________.css" crc="4261982132" ref="вебмастеру"/>
+    <file name="index.css" crc="255813711" ref="index"/>
+    <file name="_-___.css" crc="3766560873" ref="о-нас"/>
+    <file name="________.css" crc="5105149" ref="агенству"/>
+    <file name="f_a_q.css" crc="3832502874" ref="f.a.q"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="museutils.js" crc="3803043152" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="whatinput.js" crc="86476730" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="museconfig.js" crc="380897831" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="webpro.js" crc="242022427" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u3778.php" crc="3844154706" ref="index"/>
+    <file name="form-u3979.php" crc="3904442224" ref="index"/>
+    <file name="form-u4127.php" crc="471621728" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="f.a.q"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="148323635" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="4029488664" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="4.png" crc="504411930" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="4q.png" crc="290782896" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="12.png" crc="251210435" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="1q.png" crc="516576470" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="6.png" crc="4078665477" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="6q.png" crc="510916406" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="2.png" crc="4233296489" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="2q.png" crc="3803324787" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="5.png" crc="353275324" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="5q.png" crc="422389640" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="3.png" crc="3874781237" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="3q.png" crc="4144365859" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="42.png" crc="24008137" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="4q2.png" crc="233235403" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="52.png" crc="74745422" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1a.png" crc="255455259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2a.png" crc="3796720677" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3a.png" crc="39936973" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q1q.png" crc="3873921545" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q1.png" crc="3882619717" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q2q.png" crc="3991129090" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q2.png" crc="3895900347" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q3q.png" crc="4122797995" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q3.png" crc="3793748589" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1376-4.png" crc="4001598431" ref="index"/>
+    <file name="niz.jpg" crc="3802252482" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q"/>
+    <file name="u218.png" crc="4277113391" ref="index"/>
+    <file name="u218-r.png" crc="3801553949" ref="index"/>
+    <file name="u221.png" crc="208056780" ref="index"/>
+    <file name="u221-r.png" crc="3990353682" ref="index"/>
+    <file name="13.png" crc="3862555133" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3813-fss.png" crc="204425923" ref="index"/>
+    <file name="22.png" crc="499034141" ref="index">
+      <caption webpage="index" alt="Введите Email:"/>
+      <caption webpage="index" alt="Введите пароль:"/>
+      <caption webpage="index" alt="Введите имя:"/>
+      <caption webpage="index" alt="Введите skype, vk, телефон, телеграм:"/>
+      <caption webpage="index" alt="Введите Email:"/>
+      <caption webpage="index" alt="Введите пароль:"/>
+      <caption webpage="index" alt="Введите Email:"/>
+    </file>
+    <file name="1qq.png" crc="436703148" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1qqq.png" crc="279989450" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23.png" crc="3968780482" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="2q2.png" crc="4113086664" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="2qq.png" crc="4110213269" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4079-4.png" crc="169727043" ref="index"/>
+    <file name="u3997-fss.png" crc="204425923" ref="index"/>
+    <file name="3qq.png" crc="523626623" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3q2.png" crc="4260472835" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3q3.png" crc="344478836" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="32.png" crc="96641408" ref="index:рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="43.png" crc="4007518397" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4135-fss.png" crc="204425923" ref="index"/>
+    <file name="u4126-4.png" crc="530891136" ref="index"/>
+    <file name="2q3.png" crc="3906937829" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-1.jpg" crc="372328522" ref="рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="круги.png" crc="218424547" ref="рекламодателю:вебмастеру:агенству:форматы-рекламы:о-нас:f.a.q">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+      <caption webpage="о-нас" alt=""/>
+      <caption webpage="f.a.q" alt=""/>
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="q22.png" crc="4226063623" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qq2.png" crc="4091786893" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qqq2.png" crc="4219598281" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="q32.png" crc="302194809" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qq3.png" crc="3922881654" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qqq3.png" crc="4188631806" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="q4.png" crc="102765848" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qq4.png" crc="4207194487" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qqq4.png" crc="4216704535" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="q5.png" crc="350204925" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qq5.png" crc="3873479993" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="qqq5.png" crc="4067045717" ref="рекламодателю">
+      <caption webpage="рекламодателю" alt=""/>
+    </file>
+    <file name="14.png" crc="411540624" ref="рекламодателю:вебмастеру:агенству">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="1q2.png" crc="169182686" ref="рекламодателю:вебмастеру:агенству">
+      <caption webpage="рекламодателю" alt=""/>
+      <caption webpage="агенству" alt=""/>
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="u1373-4.png" crc="376679304" ref="рекламодателю"/>
+    <file name="u1388-4.png" crc="287179038" ref="рекламодателю"/>
+    <file name="u1302.png" crc="4277113391" ref="рекламодателю"/>
+    <file name="u1302-r.png" crc="3801553949" ref="рекламодателю"/>
+    <file name="u1303.png" crc="208056780" ref="рекламодателю"/>
+    <file name="u1303-r.png" crc="3990353682" ref="рекламодателю"/>
+    <file name="3q4.png" crc="280482735" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="33.png" crc="4159348422" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="3qq2.png" crc="3807857226" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="2q4.png" crc="367518805" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="24.png" crc="390357677" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="2qq2.png" crc="4085434109" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="1q3.png" crc="428092854" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="15.png" crc="4144339759" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="1qq2.png" crc="67839158" ref="вебмастеру">
+      <caption webpage="вебмастеру" alt=""/>
+    </file>
+    <file name="u1776-4.png" crc="44427681" ref="вебмастеру"/>
+    <file name="u1777-4.png" crc="62662660" ref="вебмастеру"/>
+    <file name="u1755.png" crc="4277113391" ref="вебмастеру"/>
+    <file name="u1755-r.png" crc="3801553949" ref="вебмастеру"/>
+    <file name="u1756.png" crc="208056780" ref="вебмастеру"/>
+    <file name="u1756-r.png" crc="3990353682" ref="вебмастеру"/>
+    <file name="u2074-6.png" crc="489737580" ref="агенству"/>
+    <file name="2q5.png" crc="4113944897" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="2qq3.png" crc="98356282" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="25.png" crc="57381793" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="1q4.png" crc="3968434202" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="1qq3.png" crc="187900879" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="16.png" crc="4266939842" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="3q5.png" crc="469859053" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="3qq3.png" crc="3946276711" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="34.png" crc="4019330992" ref="агенству">
+      <caption webpage="агенству" alt=""/>
+    </file>
+    <file name="u2072-4.png" crc="57570752" ref="агенству"/>
+    <file name="u2073-4.png" crc="173629415" ref="агенству"/>
+    <file name="u2051.png" crc="4277113391" ref="агенству"/>
+    <file name="u2051-r.png" crc="3801553949" ref="агенству"/>
+    <file name="u2052.png" crc="208056780" ref="агенству"/>
+    <file name="u2052-r.png" crc="3990353682" ref="агенству"/>
+    <file name="u2623-4.png" crc="42024870" ref="форматы-рекламы"/>
+    <file name="u2626-4.png" crc="3964567935" ref="форматы-рекламы"/>
+    <file name="17.png" crc="166066512" ref="форматы-рекламы">
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="u2692-12.png" crc="12707679" ref="форматы-рекламы"/>
+    <file name="44.png" crc="4096204760" ref="форматы-рекламы">
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="u2701-12.png" crc="512182261" ref="форматы-рекламы"/>
+    <file name="26.png" crc="275051619" ref="форматы-рекламы">
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="u2695-12.png" crc="4130746858" ref="форматы-рекламы"/>
+    <file name="53.png" crc="222071167" ref="форматы-рекламы">
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="u2702-10.png" crc="368732381" ref="форматы-рекламы"/>
+    <file name="35.png" crc="3787746602" ref="форматы-рекламы">
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="u2698-10.png" crc="279845735" ref="форматы-рекламы"/>
+    <file name="62.png" crc="133074608" ref="форматы-рекламы">
+      <caption webpage="форматы-рекламы" alt=""/>
+    </file>
+    <file name="u2703-10.png" crc="247462200" ref="форматы-рекламы"/>
+    <file name="u2298.png" crc="4277113391" ref="форматы-рекламы"/>
+    <file name="u2298-r.png" crc="3801553949" ref="форматы-рекламы"/>
+    <file name="u2299.png" crc="208056780" ref="форматы-рекламы"/>
+    <file name="u2299-r.png" crc="3990353682" ref="форматы-рекламы"/>
+    <file name="u2810-4.png" crc="380957962" ref="о-нас"/>
+    <file name="27.png" crc="4226723368" ref="о-нас">
+      <caption webpage="о-нас" alt=""/>
+    </file>
+    <file name="18.png" crc="4196321325" ref="о-нас">
+      <caption webpage="о-нас" alt=""/>
+    </file>
+    <file name="36.png" crc="200447922" ref="о-нас">
+      <caption webpage="о-нас" alt=""/>
+    </file>
+    <file name="u2789.png" crc="4277113391" ref="о-нас"/>
+    <file name="u2789-r.png" crc="3801553949" ref="о-нас"/>
+    <file name="u2790.png" crc="208056780" ref="о-нас"/>
+    <file name="u2790-r.png" crc="3990353682" ref="о-нас"/>
+    <file name="1qq4.png" crc="3946840096" ref="f.a.q">
+      <caption webpage="f.a.q" alt=""/>
+    </file>
+    <file name="19.png" crc="4211156711" ref="f.a.q">
+      <caption webpage="f.a.q" alt=""/>
+    </file>
+    <file name="1q5.png" crc="4277715121" ref="f.a.q">
+      <caption webpage="f.a.q" alt=""/>
+    </file>
+    <file name="u3148-4.png" crc="3828151456" ref="f.a.q"/>
+    <file name="2q6.png" crc="4052065810" ref="f.a.q">
+      <caption webpage="f.a.q" alt="1. Могу ли я зарегистрироваться в системе как рекламодатель и веб-мастер одновременно?"/>
+      <caption webpage="f.a.q" alt="2. Какие виды рекламы существуют в вашей системе?"/>
+      <caption webpage="f.a.q" alt="3. Могу ли я зарегистрироваться в системе как рекламодатель и веб-мастер одновременно?"/>
+      <caption webpage="f.a.q" alt="4. Как начать рекламную кампанию?"/>
+      <caption webpage="f.a.q" alt="5. Как создать тизер?"/>
+      <caption webpage="f.a.q" alt="6. Почему стоит статус &quot;Ожидает оплаты&quot; и не идут показы, хотя на счету есть деньги?"/>
+    </file>
+    <file name="u3127.png" crc="4277113391" ref="f.a.q"/>
+    <file name="u3127-r.png" crc="3801553949" ref="f.a.q"/>
+    <file name="u3128.png" crc="208056780" ref="f.a.q"/>
+    <file name="u3128-r.png" crc="3990353682" ref="f.a.q"/>
+  </folder>
+  <file name="index.html" crc="230770736" seo="true" mt="1518788961332" redirect="true"/>
+  <file name="рекламодателю.html" crc="4140204886" seo="true" mt="1518789012699" redirect="true"/>
+  <file name="вебмастеру.html" crc="316327303" seo="true" mt="1518789139801" redirect="true"/>
+  <file name="агенству.html" crc="3820057762" seo="true" mt="1518789056504" redirect="true"/>
+  <file name="форматы-рекламы.html" crc="194431654" seo="true" mt="1518789080059" redirect="true"/>
+  <file name="о-нас.html" crc="525242570" seo="true" mt="1518789106125" redirect="true"/>
+  <file name="f.a.q.html" crc="4066615860" seo="true" mt="1518789127077" redirect="true"/>
+</manifest>
